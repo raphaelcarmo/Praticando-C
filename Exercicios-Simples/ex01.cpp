@@ -1,7 +1,7 @@
 #include <iostream>
 using namespace std;
 
-/*  Código simples
+/*  Exercicio simples
     Função do código: Ler dois números, somar os dois números e imprimir o resultado deles.
 */
 
