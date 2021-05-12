@@ -1,5 +1,5 @@
-#include <iomanip>
-#include <iostream>
+#include <iomanip> /*A biblioteca <iomanip> fornece recursos para manipular a formatação de saída, como a base usada ao formatar inteiros e a precisão dos valores de ponto flutuante .*/
+#include <iostream> /*Cabeçalho que define os objetos de fluxo de entrada / saída padrão*/
 using namespace std;
 
 /* Exercicio de Média 2.

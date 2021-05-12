@@ -1,4 +1,4 @@
-#include <iostream>
+#include <iostream> /*Cabeçalho que define os objetos de fluxo de entrada / saída padrão*/
 using namespace std;
 
 /*  Exercicio simples, calcular a diferença entre os números A,B,C,D.
