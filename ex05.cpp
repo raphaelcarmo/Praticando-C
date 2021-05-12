@@ -4,6 +4,7 @@ using namespace std;
 
 /* Exercicio de Média 2.
     Neste  exercicio é pra calcular a média, ler a media, multiplica pelo peso. neste aqui temos 3 médias, para calcular, mas o processo é o mesmo.
+   
     O "cout.precision(1)" vai imprimir apenas 1 casas após a virgula.
     desta vez eu declarei todas as variáveis como double para ter um precisão melhor.
 

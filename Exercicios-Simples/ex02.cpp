@@ -3,8 +3,10 @@ using namespace std;
 
 /*  Exercicio Simples 
     Calcular a área do circulo;
-    Ler 4 números em double.
-    usei "fixed" pra limitar o número de casas após o ponto, quando o número é ponto flutuante
+    
+	Ler 4 números em double.
+    
+	usei "fixed" pra limitar o número de casas após o ponto, quando o número é ponto flutuante
     O "cout.precision(4)" vai imprimir apenas 4 casas após a virgula.
 */
 

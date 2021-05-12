@@ -4,6 +4,7 @@ using namespace std;
 
 /* Exercicio simples - tirar a média.
     Ler as notas dos alunos, total = nota * peso. E a média vai ser Media = total /11.
+   
     Usei "fixed" pra limitar o número de casas após o ponto, quando o número é ponto flutuante
     O "cout.precision(5)" vai imprimir apenas 5 casas após a virgula.
     declarei todas as variaveis como ponto flutante, ou seja float.
